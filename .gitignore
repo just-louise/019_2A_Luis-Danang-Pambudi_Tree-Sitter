@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node / tree-sitter
+node_modules/
+build/
+*.node
+*.so
+*.dll
+*.dylib
+*.wasm
+
+# Temporary test repos / OS files
+.DS_Store
+Thumbs.db
+repo-uji/
