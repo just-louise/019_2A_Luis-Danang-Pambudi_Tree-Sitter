@@ -1,0 +1,1 @@
+status = "open" and (priority > 2 or owner = "budi") and not archived = true and role in ("admin", "editor") and title contains "invoice"
